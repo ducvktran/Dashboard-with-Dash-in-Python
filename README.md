@@ -1,1 +1,2 @@
 # Dashboard-with-Dash-in-Python
+This notebook contains the Python code to make a dashboard for a dataset, which was done as the final project of the course "Data Visualization with Python" offered by IBM. Since GitHub doesn't support HTML output, the dashboard is not shown here. To view this notebook in nbviewer, please see [here](https://nbviewer.org/github/ducvktran/Dashboard-with-Dash-in-Python/blob/main/Dashboard_with_Dash_in_Python.ipynb).
